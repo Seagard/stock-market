@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1,
+  "version": 1, 
   "newProjectRoot": "projects",
   "projects": {
     "stock-market": {
@@ -119,10 +119,6 @@
           }
         }
       }
-    }
-  },
-  "defaultProject": "stock-market",
-  "cli": {
-    "analytics": "d1b68fa1-7585-44aa-880a-46a5ef7c27ce"
-  }
+    }},
+  "defaultProject": "stock-market"
 }
